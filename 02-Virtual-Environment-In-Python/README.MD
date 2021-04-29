@@ -26,6 +26,6 @@
 <img src="images/img7.png"/>
 <b> After new installation we are having three packages<b>
 
-# 4. Deactivating vitual environment #
+# 4. Deactivating virtual environment #
 <img src="images/img8.png"/>
 
