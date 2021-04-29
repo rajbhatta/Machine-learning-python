@@ -1,7 +1,8 @@
 # 1. What is virtual environment in python? #
 - Way of separating different python environment for different project
-- Say we do have multiple python project and they are using different version of pyramid or flask then if we upgrade the central python environment then some of the module may not work.
+- Say we do have multiple python projects and they are using different version of pyramid or flask then if we upgrade the central python environment, some of the module may not work.
 - Therefore, if we create virutal environment for each project then we don't need to worry for the version.
+- 
 
 # 2. Steps for creating virtual environment in python #
 <img src="images/img1.png"/>
