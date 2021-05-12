@@ -1,4 +1,4 @@
-# 1. What is interface in  Python ? #
+# 1. What is an interface in  Python ? #
 - In Python, there is no interface similar to other programming language such as Java.
 - In Python, interface is an abstract class which contains only the abstract method not concrete method.
 
@@ -21,7 +21,7 @@ class MobileService(ABC):
 
 ```
 
-# 3. How to implement interface ? #
+# 3. How to implement an interface ? #
 ```python
 from service.MobileService import MobileService
 
