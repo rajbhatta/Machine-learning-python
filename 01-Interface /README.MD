@@ -1,9 +1,6 @@
 # 1. What is interface in  Python ? #
-<img src="image/img1.png" />
-
-<img src="image/img2.png" />
-
-<img src="image/img3.png" />
+- In Python, there is no interface similar to other programming language such as Java.
+- In Python, interface is an abstract class which contains only the abstract method not concrete method.
 
 # 2. How to create an interface (AbstractClass) #
 ```python
