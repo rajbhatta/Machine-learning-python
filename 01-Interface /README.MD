@@ -2,7 +2,7 @@
 - In Python, there is no interface similar to other programming language such as Java.
 - In Python, interface is an abstract class which contains only the abstract method not concrete method.
 
-# 2. How to create an interface (AbstractClass) #
+# 2. How to create an interface (AbstractClass) ? #
 ```python
 
 Interface MobileService
@@ -21,7 +21,7 @@ class MobileService(ABC):
 
 ```
 
-# 3. How to implement interface #
+# 3. How to implement interface ? #
 ```python
 from service.MobileService import MobileService
 
@@ -34,7 +34,7 @@ class IphoneMobileService(MobileService):
         print('This method will downgrade the software')
 ```
 
-# 4. Invoke from main method #
+# 4. Invoke from main method ? #
 ```python
 
 # Press the green button in the gutter to run the script.
