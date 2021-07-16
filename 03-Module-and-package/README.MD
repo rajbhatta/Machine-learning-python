@@ -1,5 +1,5 @@
 # What are the packages in Python ? #
-<img src="image/image1.PNG"/>
+<img src="image/image1.png"/>
 
 ## Importing module from a package ##
 - We can import modules from packages using the dot (.) operator.
